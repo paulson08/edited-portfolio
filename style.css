@@ -24,7 +24,7 @@ html, body {
     align-items: center;
     justify-content:space-between;
     padding: 0 3vw;
-    border-bottom: 1px solid #245953;
+    border-bottom: 1px solid yellow;
 }
 
 .nav-part2{
@@ -52,7 +52,7 @@ html, body {
 .content{
     height: calc(100% - 100px);
     width: 100%;
-    background-color: yellow;
+    background-color: #d8d8d8;
     padding: 3vw 4vw;
 
 }
